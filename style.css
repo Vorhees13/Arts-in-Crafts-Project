@@ -1,0 +1,70 @@
+body {
+    font-family: Helvetica;
+    background-image: url("C:/Users/kevin/OneDrive/Arts in Crafts Project/images/background_yellow.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+    
+    h1 {
+        background-image: url("C:\\Users\\kevin\\OneDrive\\Arts in Crafts Project\\images\\pattern.jpeg");
+        color: rgb(240, 230, 140);
+        display: block;
+        font-family: Helvetica;
+        font-size: 100px;
+        font-weight: 700;
+        height: 128.8px;
+        margin-block-end: 67px;
+        margin-block-start: 67px;
+        margin-inline-end: 0px;
+        margin-inline-start: 0px;
+        text-align: center;
+        width: 100%;
+    }
+
+    #Brushes {
+        background-color: mediumspringgreen;
+        width: 100%;
+
+    }
+
+    .item h2 {
+        color: white;
+        font-size: 32px;
+    }
+
+    .item p {
+        display: block;
+    }
+
+    #Frames {
+        background-color: lightcoral;
+        width: 100%;
+    }
+
+    .Frame h2 {
+        color: white;
+        font-size: 32px;
+    }
+
+    .Frame p {
+        display: block;
+    }
+
+    #Paints {
+        background-color: lightblue;
+        width: 100%;
+    }
+
+    .Paint h2 {
+        color: white;
+        font-size: 32px;
+    }
+
+    .Paint p {
+        display: block;
+    }
+
+
+
+    
